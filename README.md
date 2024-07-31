@@ -26,6 +26,10 @@ This folder contains 12 CSV files which represent the database tables.
 - `Queries_for_analysis.sql`: SQL queries used for data analysis.
 - `Table_creation_queries.sql`: SQL scripts for creating database tables.
 
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
+
 ## Database Schema
 
 The database schema is depicted in the following image:
