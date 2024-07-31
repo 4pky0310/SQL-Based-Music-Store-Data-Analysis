@@ -26,6 +26,12 @@ This folder contains 12 CSV files which represent the database tables.
 - `Queries_for_analysis.sql`: SQL queries used for data analysis.
 - `Table_creation_queries.sql`: SQL scripts for creating database tables.
 
+## Database Schema
+
+The database schema is depicted in the following image:
+![Database Schema](images/Database%20Schema.png)
+
+
 ## Usage
 
 1. **Database Setup:**
@@ -42,8 +48,7 @@ The analysis includes various SQL queries to answer specific business questions,
 
 Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!
 
-## Schema
-![Schema](images/Database%20Schema.PNG)
+
 
 
 
